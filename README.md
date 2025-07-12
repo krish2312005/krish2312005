@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krish Patel</h1>
-<h3 align="center">One many army developer from Portland State University</h3>
+<h3 align="center">One man army developer from Portland State University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krish2312005&label=Profile%20views&color=0e75b6&style=flat" alt="krish2312005" /> </p>
 
